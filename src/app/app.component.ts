@@ -31,6 +31,7 @@ export class AppComponent {
   dataSource: NbTreeGridDataSource<FSEntry>;
 
   custName: string = '';
+///
   custSize: string = '';
   custKind: string = '';
   custItem: number = 0;
